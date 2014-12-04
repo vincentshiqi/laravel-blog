@@ -1,4 +1,5 @@
 .idea/*
+.DS_Store
 /bootstrap/compiled.php
 /vendor
 /node_modules
